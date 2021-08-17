@@ -1,1 +1,1 @@
-gunicorn toDoList.wsgi
+web: gunicorn toDoList.wsgi
